@@ -1,23 +1,25 @@
 "SaveFile"
 {
-	"timestamp"		"2022-02-19 17:27:56"
-	"map"		"de_dust2"
+	"timestamp"		"2022-02-19 18:01:53"
+	"team1"		"Českolipská666"
+	"team2"		"Českolipská666"
+	"map"		"de_overpass"
 	"round"		"5"
 	"FirstHalfScore"
 	{
-		"team1"		"4"
-		"team2"		"1"
+		"team1"		"5"
+		"team2"		"0"
 	}
 	"History"
 	{
-		"NumConsecutiveTerroristLoses"		"4"
-		"LoserBonus"		"2900"
+		"NumConsecutiveTerroristLoses"		"6"
+		"LoserBonus"		"3400"
 		"LoserMostRecentTeam"		"T"
 	}
 	"RoundResults"
 	{
-		"round1"		"5"
-		"round2"		"4"
+		"round1"		"1"
+		"round2"		"1"
 		"round3"		"4"
 		"round4"		"4"
 		"round5"		"1"
@@ -49,8 +51,8 @@
 	}
 	"PlayersAliveT"
 	{
-		"round1"		"1"
-		"round2"		"1"
+		"round1"		"0"
+		"round2"		"0"
 		"round3"		"1"
 		"round4"		"1"
 		"round5"		"0"
@@ -82,7 +84,7 @@
 	}
 	"PlayersAliveCT"
 	{
-		"round1"		"0"
+		"round1"		"1"
 		"round2"		"1"
 		"round3"		"1"
 		"round4"		"1"
@@ -125,113 +127,162 @@
 	}
 	"PlayersOnTeam1"
 	{
-		"366618030"
+		"1136128445"
 		{
-			"name"		"Grelk"
-			"disconnected"		"disconnected"
-			"kills"		"-1"
+			"name"		"Lagpeek"
+			"kills"		"3"
 			"assists"		"0"
-			"deaths"		"1"
-			"mvps"		"0"
-			"score"		"0"
-			"cash"		"15700"
-			"enemyKs"		"0"
-			"enemyHSs"		"0"
-			"enemyDamageDealt"		"0"
+			"deaths"		"0"
+			"mvps"		"3"
+			"score"		"6"
+			"cash"		"12100"
+			"enemyKs"		"3"
+			"enemyHSs"		"1"
 			"enemy2Ks"		"0"
 			"enemy3Ks"		"0"
 			"enemy4Ks"		"0"
 			"enemy5Ks"		"0"
-			"enemyKAg"		"0"
-			"firstKs"		"0"
-			"clutchKs"		"0"
+			"enemyKAg"		"3"
+			"enemyDamageDealt"		"100"
+			"firstKs"		"3"
+			"clutchKs"		"3"
 			"kills_weapon_pistol"		"0"
-			"kills_weapon_sniper"		"0"
-			"roundsWon"		"0"
+			"kills_weapon_sniper"		"1"
+			"roundsWon"		"5"
+			"helmet"		"0"
+			"Items"
+			{
+				"item"		"weapon_knife"
+				"item"		"weapon_glock"
+				"item"		"weapon_scar20"
+			}
 			"MatchStats"
 			{
-				"Deaths"
+				"Kills"
 				{
 					"round1"		"1"
+					"round2"		"1"
+					"round5"		"1"
+				}
+				"Damage"
+				{
+					"round1"		"100"
+					"round2"		"100"
+					"round5"		"100"
+				}
+				"EquipmentValue"
+				{
+					"round1"		"750"
+					"round2"		"700"
+					"round3"		"2000"
+					"round4"		"2000"
+					"round5"		"6550"
+				}
+				"MoneySaved"
+				{
+					"round1"		"50"
+					"round2"		"4800"
+					"round3"		"7650"
+					"round4"		"10900"
+					"round5"		"8550"
+				}
+				"KillReward"
+				{
+					"round1"		"750"
+					"round2"		"700"
+					"round5"		"300"
+				}
+				"LiveTime"
+				{
+					"round1"		"49"
+					"round2"		"122"
+					"round3"		"122"
 				}
 				"CashEarned"
 				{
-					"round1"		"2700"
+					"round1"		"4800"
+					"round2"		"7900"
+					"round3"		"10900"
+					"round4"		"14150"
+					"round5"		"12100"
+				}
+				"HeadShotKills"
+				{
+					"round5"		"1"
 				}
 				"Totals"
 				{
-					"Kills"		"0"
-					"Damage"		"0"
-					"EquipmentValue"		"0"
-					"KillReward"		"0"
+					"Kills"		"3"
+					"Damage"		"300"
+					"EquipmentValue"		"12000"
+					"KillReward"		"2700"
 					"LiveTime"		"0"
-					"Deaths"		"1"
+					"Deaths"		"0"
 					"Assists"		"0"
-					"HeadshotKills"		"0"
+					"HeadshotKills"		"1"
 					"Objective"		"0"
-					"CashEarned"		"1900"
+					"CashEarned"		"18950"
 					"UtilityDamage"		"0"
-					"UtilityCount"		"0"
+					"UtilityCount"		"1"
 					"UtilitySuccesses"		"0"
 					"UtilityEnemies"		"0"
-					"FlashCount"		"0"
+					"FlashCount"		"1"
 					"FlashSuccesses"		"0"
 					"EnemiesFlashed"		"0"
-					"1v1Count"		"0"
-					"1v1Wins"		"0"
+					"1v1Count"		"3"
+					"1v1Wins"		"3"
 					"1v2Count"		"0"
 					"1v2Wins"		"0"
-					"EntryCount"		"0"
-					"EntryWins"		"0"
+					"EntryCount"		"3"
+					"EntryWins"		"3"
 				}
+			}
+			"WeaponPurchases"
+			{
+				"DefIndex_1"		"1"
+				"DefIndex_35"		"1"
+				"DefIndex_38"		"1"
+				"DefIndex_43"		"1"
+				"DefIndex_44"		"1"
+				"DefIndex_45"		"1"
+				"DefIndex_47"		"1"
 			}
 			"ItemCooldown"
 			{
-				"heavyassaultsuit"		"-1"
+				"heavyassaultsuit"		"-5"
 			}
 		}
 	}
 	"PlayersOnTeam2"
 	{
-		"1136128445"
+		"366618030"
 		{
-			"name"		"Lagpeek"
-			"disconnected"		"disconnected"
-			"kills"		"-1"
+			"name"		"Grelk"
+			"kills"		"0"
 			"assists"		"0"
-			"deaths"		"1"
+			"deaths"		"3"
 			"mvps"		"0"
 			"score"		"0"
-			"cash"		"6950"
+			"cash"		"8500"
 			"enemyKs"		"0"
 			"enemyHSs"		"0"
-			"enemyDamageDealt"		"0"
 			"enemy2Ks"		"0"
 			"enemy3Ks"		"0"
 			"enemy4Ks"		"0"
 			"enemy5Ks"		"0"
 			"enemyKAg"		"0"
+			"enemyDamageDealt"		"0"
 			"firstKs"		"0"
 			"clutchKs"		"0"
 			"kills_weapon_pistol"		"0"
 			"kills_weapon_sniper"		"0"
-			"roundsWon"		"1"
+			"roundsWon"		"0"
+			"helmet"		"0"
 			"MatchStats"
 			{
-				"LiveTime"
-				{
-					"round1"		"122"
-					"round2"		"122"
-					"round3"		"122"
-					"round5"		"13"
-				}
-				"CashEarned"
-				{
-					"round1"		"4050"
-					"round5"		"6950"
-				}
 				"EquipmentValue"
 				{
+					"round1"		"200"
 					"round2"		"200"
 					"round3"		"200"
 					"round4"		"200"
@@ -239,27 +290,43 @@
 				}
 				"MoneySaved"
 				{
-					"round2"		"4050"
-					"round3"		"4050"
-					"round4"		"4050"
-					"round5"		"4050"
+					"round1"		"800"
+					"round2"		"2700"
+					"round3"		"5100"
+					"round4"		"5100"
+					"round5"		"5100"
+				}
+				"LiveTime"
+				{
+					"round1"		"52"
+					"round2"		"164"
+					"round3"		"122"
+					"round5"		"40"
 				}
 				"Deaths"
 				{
+					"round1"		"1"
+					"round2"		"1"
 					"round5"		"1"
+				}
+				"CashEarned"
+				{
+					"round1"		"2700"
+					"round2"		"5100"
+					"round5"		"8500"
 				}
 				"Totals"
 				{
 					"Kills"		"0"
 					"Damage"		"0"
-					"EquipmentValue"		"800"
+					"EquipmentValue"		"1000"
 					"KillReward"		"0"
-					"LiveTime"		"13"
-					"Deaths"		"1"
+					"LiveTime"		"134"
+					"Deaths"		"3"
 					"Assists"		"0"
 					"HeadshotKills"		"0"
 					"Objective"		"0"
-					"CashEarned"		"6150"
+					"CashEarned"		"7700"
 					"UtilityDamage"		"0"
 					"UtilityCount"		"0"
 					"UtilitySuccesses"		"0"
@@ -267,11 +334,11 @@
 					"FlashCount"		"0"
 					"FlashSuccesses"		"0"
 					"EnemiesFlashed"		"0"
-					"1v1Count"		"0"
+					"1v1Count"		"3"
 					"1v1Wins"		"0"
 					"1v2Count"		"0"
 					"1v2Wins"		"0"
-					"EntryCount"		"0"
+					"EntryCount"		"3"
 					"EntryWins"		"0"
 				}
 			}

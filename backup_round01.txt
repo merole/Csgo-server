@@ -1,8 +1,9 @@
 "SaveFile"
 {
-	"timestamp"		"2022-02-19 17:45:17"
+	"timestamp"		"2022-02-19 17:55:12"
 	"team1"		"Českolipská666"
-	"map"		"de_inferno"
+	"team2"		"Českolipská666"
+	"map"		"de_overpass"
 	"round"		"1"
 	"FirstHalfScore"
 	{
@@ -83,7 +84,7 @@
 	}
 	"PlayersAliveCT"
 	{
-		"round1"		"2"
+		"round1"		"1"
 		"round2"		"63"
 		"round3"		"63"
 		"round4"		"63"
@@ -134,9 +135,9 @@
 			"deaths"		"0"
 			"mvps"		"1"
 			"score"		"2"
-			"cash"		"4350"
+			"cash"		"4800"
 			"enemyKs"		"1"
-			"enemyHSs"		"1"
+			"enemyHSs"		"0"
 			"enemy2Ks"		"0"
 			"enemy3Ks"		"0"
 			"enemy4Ks"		"0"
@@ -144,15 +145,15 @@
 			"enemyKAg"		"1"
 			"enemyDamageDealt"		"100"
 			"firstKs"		"1"
-			"clutchKs"		"0"
-			"kills_weapon_pistol"		"1"
+			"clutchKs"		"1"
+			"kills_weapon_pistol"		"0"
 			"kills_weapon_sniper"		"0"
 			"roundsWon"		"1"
 			"helmet"		"0"
 			"Items"
 			{
 				"item"		"weapon_knife"
-				"item"		"weapon_glock"
+				"item"		"weapon_deagle"
 			}
 			"MatchStats"
 			{
@@ -166,36 +167,32 @@
 				}
 				"EquipmentValue"
 				{
-					"round1"		"200"
+					"round1"		"750"
 				}
 				"MoneySaved"
 				{
-					"round1"		"800"
+					"round1"		"50"
 				}
 				"KillReward"
 				{
-					"round1"		"300"
-				}
-				"HeadShotKills"
-				{
-					"round1"		"1"
+					"round1"		"1500"
 				}
 				"CashEarned"
 				{
-					"round1"		"4350"
+					"round1"		"4800"
 				}
 				"Totals"
 				{
 					"Kills"		"1"
 					"Damage"		"100"
-					"EquipmentValue"		"200"
-					"KillReward"		"300"
+					"EquipmentValue"		"750"
+					"KillReward"		"1500"
 					"LiveTime"		"0"
 					"Deaths"		"0"
 					"Assists"		"0"
-					"HeadshotKills"		"1"
+					"HeadshotKills"		"0"
 					"Objective"		"0"
-					"CashEarned"		"3550"
+					"CashEarned"		"4750"
 					"UtilityDamage"		"0"
 					"UtilityCount"		"0"
 					"UtilitySuccesses"		"0"
@@ -203,28 +200,36 @@
 					"FlashCount"		"0"
 					"FlashSuccesses"		"0"
 					"EnemiesFlashed"		"0"
-					"1v1Count"		"0"
-					"1v1Wins"		"0"
+					"1v1Count"		"1"
+					"1v1Wins"		"1"
 					"1v2Count"		"0"
 					"1v2Wins"		"0"
 					"EntryCount"		"1"
 					"EntryWins"		"1"
 				}
 			}
+			"WeaponPurchases"
+			{
+				"DefIndex_1"		"1"
+				"DefIndex_47"		"1"
+			}
 			"ItemCooldown"
 			{
 				"heavyassaultsuit"		"-1"
 			}
 		}
+	}
+	"PlayersOnTeam2"
+	{
 		"366618030"
 		{
 			"name"		"Grelk"
 			"kills"		"0"
 			"assists"		"0"
-			"deaths"		"0"
+			"deaths"		"1"
 			"mvps"		"0"
 			"score"		"0"
-			"cash"		"4050"
+			"cash"		"2700"
 			"enemyKs"		"0"
 			"enemyHSs"		"0"
 			"enemy2Ks"		"0"
@@ -237,13 +242,8 @@
 			"clutchKs"		"0"
 			"kills_weapon_pistol"		"0"
 			"kills_weapon_sniper"		"0"
-			"roundsWon"		"1"
+			"roundsWon"		"0"
 			"helmet"		"0"
-			"Items"
-			{
-				"item"		"weapon_knife"
-				"item"		"weapon_usp_silencer"
-			}
 			"MatchStats"
 			{
 				"EquipmentValue"
@@ -254,9 +254,17 @@
 				{
 					"round1"		"800"
 				}
+				"LiveTime"
+				{
+					"round1"		"52"
+				}
+				"Deaths"
+				{
+					"round1"		"1"
+				}
 				"CashEarned"
 				{
-					"round1"		"4050"
+					"round1"		"2700"
 				}
 				"Totals"
 				{
@@ -264,12 +272,12 @@
 					"Damage"		"0"
 					"EquipmentValue"		"200"
 					"KillReward"		"0"
-					"LiveTime"		"0"
-					"Deaths"		"0"
+					"LiveTime"		"52"
+					"Deaths"		"1"
 					"Assists"		"0"
 					"HeadshotKills"		"0"
 					"Objective"		"0"
-					"CashEarned"		"3250"
+					"CashEarned"		"1900"
 					"UtilityDamage"		"0"
 					"UtilityCount"		"0"
 					"UtilitySuccesses"		"0"
@@ -277,11 +285,11 @@
 					"FlashCount"		"0"
 					"FlashSuccesses"		"0"
 					"EnemiesFlashed"		"0"
-					"1v1Count"		"0"
+					"1v1Count"		"1"
 					"1v1Wins"		"0"
 					"1v2Count"		"0"
 					"1v2Wins"		"0"
-					"EntryCount"		"0"
+					"EntryCount"		"1"
 					"EntryWins"		"0"
 				}
 			}

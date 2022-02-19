@@ -1,24 +1,24 @@
 "SaveFile"
 {
-	"timestamp"		"2022-02-19 17:35:59"
+	"timestamp"		"2022-02-19 17:56:16"
 	"team1"		"Českolipská666"
 	"team2"		"Českolipská666"
-	"map"		"de_dust2"
+	"map"		"de_overpass"
 	"round"		"2"
 	"FirstHalfScore"
 	{
-		"team1"		"1"
-		"team2"		"1"
+		"team1"		"2"
+		"team2"		"0"
 	}
 	"History"
 	{
-		"NumConsecutiveTerroristLoses"		"1"
-		"LoserBonus"		"1400"
+		"NumConsecutiveTerroristLoses"		"3"
+		"LoserBonus"		"2400"
 		"LoserMostRecentTeam"		"T"
 	}
 	"RoundResults"
 	{
-		"round1"		"5"
+		"round1"		"1"
 		"round2"		"1"
 		"round3"		"0"
 		"round4"		"0"
@@ -51,7 +51,7 @@
 	}
 	"PlayersAliveT"
 	{
-		"round1"		"1"
+		"round1"		"0"
 		"round2"		"0"
 		"round3"		"63"
 		"round4"		"63"
@@ -84,7 +84,7 @@
 	}
 	"PlayersAliveCT"
 	{
-		"round1"		"0"
+		"round1"		"1"
 		"round2"		"1"
 		"round3"		"63"
 		"round4"		"63"
@@ -130,62 +130,76 @@
 		"1136128445"
 		{
 			"name"		"Lagpeek"
-			"kills"		"0"
+			"kills"		"2"
 			"assists"		"0"
 			"deaths"		"0"
-			"mvps"		"0"
-			"score"		"0"
-			"cash"		"4350"
-			"enemyKs"		"0"
+			"mvps"		"2"
+			"score"		"4"
+			"cash"		"7900"
+			"enemyKs"		"2"
 			"enemyHSs"		"0"
 			"enemy2Ks"		"0"
 			"enemy3Ks"		"0"
 			"enemy4Ks"		"0"
 			"enemy5Ks"		"0"
-			"enemyKAg"		"0"
-			"enemyDamageDealt"		"0"
-			"firstKs"		"0"
-			"clutchKs"		"0"
+			"enemyKAg"		"2"
+			"enemyDamageDealt"		"100"
+			"firstKs"		"2"
+			"clutchKs"		"2"
 			"kills_weapon_pistol"		"0"
 			"kills_weapon_sniper"		"0"
-			"roundsWon"		"1"
+			"roundsWon"		"2"
 			"helmet"		"0"
 			"Items"
 			{
 				"item"		"weapon_knife"
-				"item"		"weapon_usp_silencer"
+				"item"		"weapon_deagle"
+				"item"		"weapon_nova"
 			}
 			"MatchStats"
 			{
-				"CashEarned"
+				"Kills"
 				{
-					"round1"		"800"
-					"round2"		"4350"
+					"round1"		"1"
+					"round2"		"1"
+				}
+				"Damage"
+				{
+					"round1"		"100"
+					"round2"		"100"
 				}
 				"EquipmentValue"
 				{
-					"round2"		"200"
+					"round1"		"750"
+					"round2"		"700"
 				}
 				"MoneySaved"
 				{
-					"round2"		"800"
+					"round1"		"50"
+					"round2"		"4800"
 				}
 				"KillReward"
 				{
-					"round2"		"300"
+					"round1"		"750"
+					"round2"		"900"
+				}
+				"CashEarned"
+				{
+					"round1"		"4800"
+					"round2"		"7900"
 				}
 				"Totals"
 				{
-					"Kills"		"0"
-					"Damage"		"0"
-					"EquipmentValue"		"200"
-					"KillReward"		"300"
+					"Kills"		"2"
+					"Damage"		"200"
+					"EquipmentValue"		"1450"
+					"KillReward"		"2400"
 					"LiveTime"		"0"
 					"Deaths"		"0"
 					"Assists"		"0"
 					"HeadshotKills"		"0"
 					"Objective"		"0"
-					"CashEarned"		"3550"
+					"CashEarned"		"8900"
 					"UtilityDamage"		"0"
 					"UtilityCount"		"0"
 					"UtilitySuccesses"		"0"
@@ -193,95 +207,23 @@
 					"FlashCount"		"0"
 					"FlashSuccesses"		"0"
 					"EnemiesFlashed"		"0"
-					"1v1Count"		"0"
-					"1v1Wins"		"0"
+					"1v1Count"		"2"
+					"1v1Wins"		"2"
 					"1v2Count"		"0"
 					"1v2Wins"		"0"
-					"EntryCount"		"0"
-					"EntryWins"		"0"
+					"EntryCount"		"2"
+					"EntryWins"		"2"
 				}
+			}
+			"WeaponPurchases"
+			{
+				"DefIndex_1"		"1"
+				"DefIndex_35"		"1"
+				"DefIndex_47"		"1"
 			}
 			"ItemCooldown"
 			{
 				"heavyassaultsuit"		"-2"
-			}
-		}
-		"366618030"
-		{
-			"name"		"Grelk"
-			"disconnected"		"disconnected"
-			"kills"		"-1"
-			"assists"		"0"
-			"deaths"		"1"
-			"mvps"		"0"
-			"score"		"0"
-			"cash"		"4100"
-			"enemyKs"		"0"
-			"enemyHSs"		"0"
-			"enemyDamageDealt"		"0"
-			"enemy2Ks"		"0"
-			"enemy3Ks"		"0"
-			"enemy4Ks"		"0"
-			"enemy5Ks"		"0"
-			"enemyKAg"		"0"
-			"firstKs"		"0"
-			"clutchKs"		"0"
-			"kills_weapon_pistol"		"0"
-			"kills_weapon_sniper"		"0"
-			"roundsWon"		"0"
-			"MatchStats"
-			{
-				"EquipmentValue"
-				{
-					"round1"		"200"
-				}
-				"MoneySaved"
-				{
-					"round1"		"800"
-				}
-				"LiveTime"
-				{
-					"round1"		"35"
-				}
-				"Deaths"
-				{
-					"round1"		"1"
-				}
-				"CashEarned"
-				{
-					"round1"		"2700"
-					"round2"		"4100"
-				}
-				"Totals"
-				{
-					"Kills"		"0"
-					"Damage"		"0"
-					"EquipmentValue"		"200"
-					"KillReward"		"0"
-					"LiveTime"		"35"
-					"Deaths"		"1"
-					"Assists"		"0"
-					"HeadshotKills"		"0"
-					"Objective"		"0"
-					"CashEarned"		"3300"
-					"UtilityDamage"		"0"
-					"UtilityCount"		"0"
-					"UtilitySuccesses"		"0"
-					"UtilityEnemies"		"0"
-					"FlashCount"		"0"
-					"FlashSuccesses"		"0"
-					"EnemiesFlashed"		"0"
-					"1v1Count"		"0"
-					"1v1Wins"		"0"
-					"1v2Count"		"0"
-					"1v2Wins"		"0"
-					"EntryCount"		"0"
-					"EntryWins"		"0"
-				}
-			}
-			"ItemCooldown"
-			{
-				"heavyassaultsuit"		"-1"
 			}
 		}
 	}
@@ -290,12 +232,12 @@
 		"366618030"
 		{
 			"name"		"Grelk"
-			"kills"		"-1"
+			"kills"		"0"
 			"assists"		"0"
-			"deaths"		"1"
+			"deaths"		"2"
 			"mvps"		"0"
 			"score"		"0"
-			"cash"		"4100"
+			"cash"		"5100"
 			"enemyKs"		"0"
 			"enemyHSs"		"0"
 			"enemy2Ks"		"0"
@@ -315,36 +257,40 @@
 				"EquipmentValue"
 				{
 					"round1"		"200"
+					"round2"		"200"
 				}
 				"MoneySaved"
 				{
 					"round1"		"800"
+					"round2"		"2700"
 				}
 				"LiveTime"
 				{
-					"round1"		"35"
+					"round1"		"52"
+					"round2"		"42"
 				}
 				"Deaths"
 				{
 					"round1"		"1"
+					"round2"		"1"
 				}
 				"CashEarned"
 				{
 					"round1"		"2700"
-					"round2"		"4100"
+					"round2"		"5100"
 				}
 				"Totals"
 				{
 					"Kills"		"0"
 					"Damage"		"0"
-					"EquipmentValue"		"200"
+					"EquipmentValue"		"400"
 					"KillReward"		"0"
-					"LiveTime"		"35"
-					"Deaths"		"1"
+					"LiveTime"		"94"
+					"Deaths"		"2"
 					"Assists"		"0"
 					"HeadshotKills"		"0"
 					"Objective"		"0"
-					"CashEarned"		"3300"
+					"CashEarned"		"4300"
 					"UtilityDamage"		"0"
 					"UtilityCount"		"0"
 					"UtilitySuccesses"		"0"
@@ -352,17 +298,17 @@
 					"FlashCount"		"0"
 					"FlashSuccesses"		"0"
 					"EnemiesFlashed"		"0"
-					"1v1Count"		"0"
+					"1v1Count"		"2"
 					"1v1Wins"		"0"
 					"1v2Count"		"0"
 					"1v2Wins"		"0"
-					"EntryCount"		"0"
+					"EntryCount"		"2"
 					"EntryWins"		"0"
 				}
 			}
 			"ItemCooldown"
 			{
-				"heavyassaultsuit"		"-1"
+				"heavyassaultsuit"		"-2"
 			}
 		}
 	}

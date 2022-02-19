@@ -1,8 +1,9 @@
 "SaveFile"
 {
-	"timestamp"		"2022-02-19 17:43:50"
+	"timestamp"		"2022-02-19 17:53:57"
 	"team1"		"Českolipská666"
-	"map"		"de_inferno"
+	"team2"		"Českolipská666"
+	"map"		"de_overpass"
 	"round"		"0"
 	"FirstHalfScore"
 	{
@@ -83,7 +84,7 @@
 	}
 	"PlayersAliveCT"
 	{
-		"round1"		"2"
+		"round1"		"1"
 		"round2"		"63"
 		"round3"		"63"
 		"round4"		"63"
@@ -187,6 +188,9 @@
 				"heavyassaultsuit"		"0"
 			}
 		}
+	}
+	"PlayersOnTeam2"
+	{
 		"366618030"
 		{
 			"name"		"Grelk"
