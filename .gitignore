@@ -1,12 +1,2 @@
-bin
-expressions
-logs
-maps
 *.vpk
-materials
-models
 *.db
-scenes
-scripts
-panorama
-resource
